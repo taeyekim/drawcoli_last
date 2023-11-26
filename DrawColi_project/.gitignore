@@ -1,0 +1,4 @@
+.metadata/
+**/target/
+pom.properties
+DrawColi_project/Coli_project/target/m2e-wtp/web-resources/METAINF/maven/kr.spring/controller/pom.properties
